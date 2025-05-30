@@ -17,16 +17,17 @@ This script exports your bookmarks from **Microsoft Edge** and **Brave** browser
 
 ### 1. Clone the Repository
 
-````sh
+```sh
 git clone https://github.com/YOUR_USERNAME/bookmarks2b2.git
 cd bookmarks2b2
+```
 
 ### 2. Set up a Python Virtual Environment (Recommended)
 
 ```sh
 python -m venv venv
 pip install b2sdk pyinstaller
-````
+```
 
 ### 3. Configure Backblaze Credentials
 
